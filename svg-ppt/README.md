@@ -1,6 +1,6 @@
 # svg-ppt
 
-`svg-ppt` is a Codex skill for turning complete written content into a premium single-slide SVG presentation page.
+`svg-ppt` is a Codex skill that transforms long-form written content directly into high-quality SVG presentation pages. It is designed for scenarios where users need to quickly create polished, PPT-style visual slides. The skill automatically restructures raw text into presentation-ready information blocks, chooses an appropriate layout based on content importance, and generates a single-slide 16:9 SVG visual. Rather than simply outputting SVG code, it emphasizes information architecture, visual hierarchy, and presentation clarity, and by default delivers a directly previewable SVG image instead of a large block of markup. It is well suited for content-driven visuals such as report slides, methodology pages, summary pages, comparison pages, and strategy pages.
 
 It is designed for:
 - SVG-based PPT-style slides
