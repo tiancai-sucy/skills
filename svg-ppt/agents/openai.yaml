@@ -1,0 +1,4 @@
+interface:
+  display_name: "SVG PPT"
+  short_description: "Create premium single-slide SVG decks."
+  default_prompt: "Use $svg-ppt to turn my text into a premium 1280x720 SVG presentation slide."
